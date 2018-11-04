@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600,700');
+body {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.8;
+}
+img {
+    max-width: 100%;
+}
+.hero {
+    min-height: calc(100vh - 63px);
+}
+.btn-cta {
+    padding: 1rem 2rem;
+    border-radius: 50px;
+}
+p {
+    color: darkgray;    
+}
